@@ -27,3 +27,8 @@ In general, laptop components are not intended to be replaceable or upgradable b
 3. [GPU](https://pl.wikipedia.org/wiki/Procesor_graficzny)
 4. Memory
 5. Internal storage
+
+## Manufactures of Laptops
+- Lenovo
+- HP
+- Dell
